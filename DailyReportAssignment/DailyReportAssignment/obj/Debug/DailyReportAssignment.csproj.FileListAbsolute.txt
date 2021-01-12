@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
