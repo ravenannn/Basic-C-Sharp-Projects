@@ -1,0 +1,6 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.pdb
