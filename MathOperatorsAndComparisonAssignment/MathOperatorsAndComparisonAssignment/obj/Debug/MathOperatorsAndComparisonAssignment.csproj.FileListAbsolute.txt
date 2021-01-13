@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperatorsAndComparisonAssignment\MathOperatorsAndComparisonAssignment\bin\Debug\MathOperatorsAndComparisonAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperatorsAndComparisonAssignment\MathOperatorsAndComparisonAssignment\bin\Debug\MathOperatorsAndComparisonAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperatorsAndComparisonAssignment\MathOperatorsAndComparisonAssignment\bin\Debug\MathOperatorsAndComparisonAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperatorsAndComparisonAssignment\MathOperatorsAndComparisonAssignment\obj\Debug\MathOperatorsAndComparisonAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperatorsAndComparisonAssignment\MathOperatorsAndComparisonAssignment\obj\Debug\MathOperatorsAndComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperatorsAndComparisonAssignment\MathOperatorsAndComparisonAssignment\obj\Debug\MathOperatorsAndComparisonAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperatorsAndComparisonAssignment\MathOperatorsAndComparisonAssignment\obj\Debug\MathOperatorsAndComparisonAssignment.pdb
