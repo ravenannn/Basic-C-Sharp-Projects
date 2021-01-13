@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.pdb
