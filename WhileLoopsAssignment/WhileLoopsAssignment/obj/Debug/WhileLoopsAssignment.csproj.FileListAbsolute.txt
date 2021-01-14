@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileLoopsAssignment\WhileLoopsAssignment\obj\Debug\WhileLoopsAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileLoopsAssignment\WhileLoopsAssignment\obj\Debug\WhileLoopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileLoopsAssignment\WhileLoopsAssignment\bin\Debug\WhileLoopsAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileLoopsAssignment\WhileLoopsAssignment\bin\Debug\WhileLoopsAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileLoopsAssignment\WhileLoopsAssignment\bin\Debug\WhileLoopsAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileLoopsAssignment\WhileLoopsAssignment\obj\Debug\WhileLoopsAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileLoopsAssignment\WhileLoopsAssignment\obj\Debug\WhileLoopsAssignment.pdb
