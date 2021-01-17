@@ -12,9 +12,12 @@ namespace ClassesAndMethodsAssignment
 
             MathOperations mathProblem = new MathOperations();
 
-            mathProblem.Add12(chosenNum);
-            mathProblem.Mult3(chosenNum);
-            mathProblem.Sub10(chosenNum);
+            int add12Result = mathProblem.Add12(chosenNum);
+            Console.WriteLine(chosenNum + " plus 12 equals: " + add12Result);
+            int mult3Result = mathProblem.Mult3(chosenNum);
+            Console.WriteLine(chosenNum + " multiplied by 3 equals: " + mult3Result);
+            int sub10Result = mathProblem.Sub10(chosenNum);
+            Console.WriteLine(chosenNum + " minus 10 equals: " + sub10Result);
 
             Console.ReadLine();
         }

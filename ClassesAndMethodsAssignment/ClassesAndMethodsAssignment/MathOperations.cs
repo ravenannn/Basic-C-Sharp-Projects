@@ -8,22 +8,22 @@ namespace ClassesAndMethodsAssignment
     {
        
 
-        public void Add12(int chosenNum)
+        public int Add12(int chosenNum)
         {
             int added = 12 + chosenNum;
-            Console.WriteLine(chosenNum + " plus 12 equals: " + added);
+            return added;
         }
 
-        public void Mult3(int chosenNum)
+        public int Mult3(int chosenNum)
         {
             int multiplied = 3 * chosenNum;
-            Console.WriteLine(chosenNum + " multiplied by 3 equals: " + multiplied);
+            return multiplied;
         }
 
-        public void Sub10(int chosenNum)
+        public int Sub10(int chosenNum)
         {
             int subtracted = chosenNum - 10;
-            Console.WriteLine(chosenNum + " minus 10 equals: " + subtracted);
+            return subtracted;
         }
     }
 }
