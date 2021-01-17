@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StaticClassAssignment\StaticClassAssignment\bin\Debug\StaticClassAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StaticClassAssignment\StaticClassAssignment\bin\Debug\StaticClassAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StaticClassAssignment\StaticClassAssignment\bin\Debug\StaticClassAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StaticClassAssignment\StaticClassAssignment\obj\Debug\StaticClassAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StaticClassAssignment\StaticClassAssignment\obj\Debug\StaticClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StaticClassAssignment\StaticClassAssignment\obj\Debug\StaticClassAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StaticClassAssignment\StaticClassAssignment\obj\Debug\StaticClassAssignment.pdb
