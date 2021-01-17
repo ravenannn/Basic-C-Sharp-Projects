@@ -1,0 +1,6 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.pdb
