@@ -14,7 +14,9 @@ namespace VoidMethodAssignment
             int intOne = 3;
             int intTwo = 5;
 
-            returnInt.mathOperations(intOne, intTwo);
+            //Call the method in the class, specifying the parameters by name
+            returnInt.mathOperations(intOne: intOne, intTwo: intTwo);
+            //Call the method in the class passing in two integers
             returnInt.mathOperations(3, 5);
             Console.ReadLine();
 
