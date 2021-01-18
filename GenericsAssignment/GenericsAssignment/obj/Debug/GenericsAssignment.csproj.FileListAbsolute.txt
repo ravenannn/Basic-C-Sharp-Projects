@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.pdb
