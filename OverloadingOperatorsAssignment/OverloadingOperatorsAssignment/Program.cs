@@ -15,7 +15,7 @@ namespace OverloadingOperatorsAssignment
             Employee employee2 = new Employee();
             employee2.ID = 67890;
 
-            Console.WriteLine(employee1.ID == employee2.ID);
+            Console.WriteLine(employee1 == employee2);
 
             Console.ReadLine();
            

@@ -20,13 +20,23 @@ namespace OverloadingOperatorsAssignment
 
 
         // Overload the "==" operator
-        public static bool operator ==(Employee employee1, Employee employee2)
+        public static bool operator == (Employee employee1, Employee employee2)
         {
-            return true;
+            bool status = false;
+            if (employee1.ID == employee2.ID)
+            {
+               status = true;
+            }
+            return status;
         }
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator != (Employee employee1, Employee employee2)
         {
-            return false;
+            bool status = false;
+            if (employee1.ID != employee2.ID)
+            {
+                status = false;
+            }
+            return status;
         }
 
     }
