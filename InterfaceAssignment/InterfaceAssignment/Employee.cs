@@ -8,7 +8,7 @@ namespace InterfaceAssignment
 {
     public class Employee : IQuittable
     {
-        public virtual void Quit()
+        public void Quit()
         {
             Console.WriteLine("This employee has opted for voluntary termination.");
         }
