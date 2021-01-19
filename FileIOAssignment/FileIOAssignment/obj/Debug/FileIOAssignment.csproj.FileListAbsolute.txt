@@ -1,0 +1,6 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.pdb
