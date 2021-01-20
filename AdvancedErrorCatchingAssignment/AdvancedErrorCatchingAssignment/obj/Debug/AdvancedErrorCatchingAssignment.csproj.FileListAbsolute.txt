@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AdvancedErrorCatchingAssignment\AdvancedErrorCatchingAssignment\bin\Debug\AdvancedErrorCatchingAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AdvancedErrorCatchingAssignment\AdvancedErrorCatchingAssignment\bin\Debug\AdvancedErrorCatchingAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AdvancedErrorCatchingAssignment\AdvancedErrorCatchingAssignment\bin\Debug\AdvancedErrorCatchingAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AdvancedErrorCatchingAssignment\AdvancedErrorCatchingAssignment\obj\Debug\AdvancedErrorCatchingAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AdvancedErrorCatchingAssignment\AdvancedErrorCatchingAssignment\obj\Debug\AdvancedErrorCatchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AdvancedErrorCatchingAssignment\AdvancedErrorCatchingAssignment\obj\Debug\AdvancedErrorCatchingAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AdvancedErrorCatchingAssignment\AdvancedErrorCatchingAssignment\obj\Debug\AdvancedErrorCatchingAssignment.pdb
