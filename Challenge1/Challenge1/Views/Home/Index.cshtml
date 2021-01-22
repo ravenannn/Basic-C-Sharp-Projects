@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+    <h2>Current Time:</h2>
+ 
+<div class="date-time">@{ 
+    @Html.Label(string.Format("{0:F}", System.DateTime.Now))
+}
+</div>
