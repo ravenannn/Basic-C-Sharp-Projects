@@ -1,0 +1,7 @@
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.exe.config
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.pdb
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.csprojAssemblyReference.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.exe
+C:\Users\raven\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.pdb
