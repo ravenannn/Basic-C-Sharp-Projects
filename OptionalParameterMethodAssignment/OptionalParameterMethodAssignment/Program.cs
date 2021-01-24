@@ -18,7 +18,7 @@ namespace OptionalParameterMethodAssignment
             string optionalNum2 = Console.ReadLine();
             int convertedNum2 = 0;
 
-            if (optionalNum2.Length > 1)
+            if (optionalNum2.Length > 0)
             {
                 convertedNum2 = Convert.ToInt32(optionalNum2);
             }
