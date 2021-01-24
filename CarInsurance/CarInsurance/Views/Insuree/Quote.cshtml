@@ -1,0 +1,12 @@
+﻿@model decimal
+@Styles.Render("~/Content/css")
+@Styles.Render("~/Content/Create.css")
+@{
+    ViewBag.Title = "Create";
+}
+
+@ViewBag.Message
+
+
+
+<center>  <h2>This is your Insurance Quote based on the information you provided:</h2> <h1><b> $ @Model </b></h1></center>

@@ -19,7 +19,7 @@
           <Property Name="CarModel" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="DUI" Type="bit" Nullable="false" />
           <Property Name="SpeedingTickets" Type="int" Nullable="false" />
-          <Property Name="CoverageType" Type="bit" Nullable="false" />
+          <Property Name="FullCoverage" Type="bit" Nullable="false" />
           <Property Name="Quote" Type="money" Nullable="false" />
         </EntityType>
         <EntityContainer Name="InsuranceModelStoreContainer">
@@ -44,7 +44,7 @@
           <Property Name="CarModel" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="DUI" Type="Boolean" Nullable="false" />
           <Property Name="SpeedingTickets" Type="Int32" Nullable="false" />
-          <Property Name="CoverageType" Type="Boolean" Nullable="false" />
+          <Property Name="FullCoverage" Type="Boolean" Nullable="false" />
           <Property Name="Quote" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
         </EntityType>
         <EntityContainer Name="InsuranceEntities" annotation:LazyLoadingEnabled="true">
@@ -69,7 +69,7 @@
                 <ScalarProperty Name="CarModel" ColumnName="CarModel" />
                 <ScalarProperty Name="DUI" ColumnName="DUI" />
                 <ScalarProperty Name="SpeedingTickets" ColumnName="SpeedingTickets" />
-                <ScalarProperty Name="CoverageType" ColumnName="CoverageType" />
+                <ScalarProperty Name="FullCoverage" ColumnName="FullCoverage" />
                 <ScalarProperty Name="Quote" ColumnName="Quote" />
               </MappingFragment>
             </EntityTypeMapping>

@@ -1,5 +1,5 @@
 ﻿using CarInsurance.Models;
-using CarInsurance.ViewModels;
+using CarInsurance.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,13 +10,17 @@ namespace CarInsurance.Controllers
 {
     public class AdminController : Controller
     {
+
+        private InsuranceEntities db = new InsuranceEntities();
+
         // GET: Admin
-        public ActionResult Index()
+        public ActionResult Admin()
         {
-            using (CarInsuranceEntities1 db = new CarInsuranceEntities1())
+            using (InsuranceEntities db = new InsuranceEntities())
             {
-                var quotes = db.Quotes;
+                var quotes = db.Insurees;
                 var quoteVms = new List<QuoteVm>();
+                //loop through & map to a view model
                 foreach (var quote in quotes)
                 {
                     var quoteVm = new QuoteVm();
@@ -24,12 +28,10 @@ namespace CarInsurance.Controllers
                     quoteVm.FirstName = quote.FirstName;
                     quoteVm.LastName = quote.LastName;
                     quoteVm.EmailAddress = quote.EmailAddress;
-                    quoteVm.QuoteAmount = quote.QuoteAmount;
                     quoteVms.Add(quoteVm);
                 }
                 return View(quoteVms);
             }
-
         }
     }
 }
